@@ -7,17 +7,17 @@ import Footer from "@/components/layout/footer";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Precedent - Building blocks for your Next.js project",
+  title: "Continuum",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
+    "Place to interact with strangers",
   twitter: {
     card: "summary_large_image",
-    title: "Precedent - Building blocks for your Next.js project",
+    title: "Continuum - Place to interact with strangers",
     description:
-      "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-    creator: "@steventey",
+      "Place to interact with strangers",
+    creator: "@sandeep-jaiswar",
   },
-  metadataBase: new URL("https://precedent.dev"),
+  metadataBase: new URL("https://continuum-pi.vercel.app"),
   themeColor: "#FFF",
 };
 

@@ -1,0 +1,44 @@
+{
+    "features": [
+        {
+            "title": "Real-time Chat",
+            "description": "Engage in live conversations with strangers around the world."
+        },
+        {
+            "title": "User Matching",
+            "description": "Connect with like-minded individuals based on interests or location."
+        },
+        {
+            "title": "User Profiles",
+            "description": "Create profiles with photos and basic information."
+        },
+        {
+            "title": "Privacy Controls",
+            "description": "Customize who can contact you and see your profile."
+        },
+        {
+            "title": "User Reviews",
+            "description": "Rate and review your interactions for a better community."
+        },
+        {
+            "title": "Reporting and Moderation",
+            "description": "Flag inappropriate content and ensure a safe environment."
+        },
+        {
+            "title": "User Stories - Confessions",
+            "description": "Read real stories of people who found friends and even love on our platform."
+        },
+        {
+            "title": "Mobile Compatibility",
+            "description": "Enjoy the platform on your smartphone or tablet."
+        },
+        {
+            "title": "Community Guidelines",
+            "description": "Maintain a respectful atmosphere with clear rules."
+        },
+        {
+            "title": "Content Sharing",
+            "description": "Share images, videos, and links within chats."
+        }
+    ]
+}
